@@ -5,7 +5,7 @@ public class BinarySearch {
         int[] num = {1, 2, 3, 4, 5};
         int target = 2;
         int st = 0, ed = num.length - 1;
-        int index = 0;
+        int index = -1;
         while (st <= ed) {
             int mid = st + (ed - st) / 2;
             if (num[mid] == target) {
