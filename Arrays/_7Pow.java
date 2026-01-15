@@ -1,5 +1,5 @@
 
-public class Pow {
+public class _7Pow {
 
     public static void main(String[] args) {
         double n = 2.0;

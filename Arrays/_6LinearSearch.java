@@ -1,5 +1,5 @@
 
-public class LinearSearch {
+public class _6LinearSearch {
 
     public static void main(String[] args) {
         int[] num = {2, 4, 56, 8, 6, 4, 7, 9};

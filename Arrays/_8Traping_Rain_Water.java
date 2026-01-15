@@ -1,5 +1,5 @@
 
-// public class Traping_Rain_Water {
+// public class _8Traping_Rain_Water {
 //     public static void main(String[] args) {
 //         int[] nums = {4, 2, 0, 3, 2, 5};
 //         int n = nums.length;
@@ -26,7 +26,7 @@
 //         System.out.println(trap);
 //     }
 // }
-public class Traping_Rain_Water {
+public class _8Traping_Rain_Water {
 
     public static void main(String[] args) {
         int[] nums = {4, 2, 0, 3, 2, 5};

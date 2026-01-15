@@ -1,5 +1,5 @@
 
-public class Color_Sort {
+public class _5Color_Sort {
 
     public static void main(String[] args) {
         int[] nums = {2, 0, 2, 1, 1, 0};
